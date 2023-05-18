@@ -168,6 +168,7 @@ body{
     }
     .box_header{
         display: block;
+        width:100%;
     }
     .box_header:nth-child(2), .box_header:last-child{
         margin-left: 0;
