@@ -171,6 +171,9 @@ body{
         width:100%;
         padding: 10px 0;
     }
+    .right_box_header{
+        margin-top: 10px;
+    }
     .box_header:nth-child(2), .box_header:last-child{
         margin-left: 0;
     }
